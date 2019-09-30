@@ -13,4 +13,4 @@ Data are installed from kaggle competition 'RSNA Pneumonia Detection Challenge'
   - improve explainability
   - thresholding heatmap to output bbox
   
-![Imagecontext]('./pictures/predict_img.png')
+![Imagecontext](./pictures/predict_img.png)
