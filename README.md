@@ -12,4 +12,5 @@ Data are installed from kaggle competition 'RSNA Pneumonia Detection Challenge'
 - Grad_CAM unsupervised learning
   - improve explainability
   - thresholding heatmap to output bbox
+  
 ![]('./pictures/predict_img.png')
